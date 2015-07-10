@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/PRD/azureus2/lib/swt-win32.jar"/>
+	<classpathentry kind="lib" path="/PRD/azureus2/lib/swt-win64.jar"/>
+	<classpathentry kind="lib" path="/PRD/azureus2/lib/swt-carbon.jar"/>
+	<classpathentry kind="lib" path="/PRD/azureus2/lib/swt-cocoa-32.jar"/>
+	<classpathentry kind="lib" path="/PRD/azureus2/lib/swt-cocoa-64.jar"/>
+	<classpathentry kind="lib" path="/PRD/uis/lib/commons-cli.jar"/>
+	<classpathentry kind="lib" path="/PRD/uis/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="/PRD/uis/lib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/apoorv/Downloads/Code Source/dist/Azureus2.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
